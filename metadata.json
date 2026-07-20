@@ -1,0 +1,6 @@
+{
+  "name": "Internal Audit Management System",
+  "description": "A premium offline-first Internal Audit Management System with dashboards, audit planning, checklist templates, audit execution, findings tracking, NCR reports, and bank reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
