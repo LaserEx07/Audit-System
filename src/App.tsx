@@ -148,7 +148,7 @@ export default function App() {
       case 'ncr':
         return <NcrReports currentRole={currentRole} addToast={addToast} />;
       case 'specialist':
-        return <SpecialistAudits addToast={addToast} />;
+        return <SpecialistAudits addToast={addToast} currentRole={currentRole} />;
       case 'documents':
         return <Documents currentRole={currentRole} addToast={addToast} />;
       case 'reports':
